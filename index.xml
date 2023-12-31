@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Photo Site</title>
+    <title>Photo Notes</title>
     <link>https://photo.savchenko.tech/</link>
-    <description>Recent content on Photo Site</description>
+    <description>Recent content on Photo Notes</description>
     
-    <language>en-us</language><atom:link href="https://photo.savchenko.tech/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://photo.savchenko.tech/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Animals</title>
+      <link>https://photo.savchenko.tech/animals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://photo.savchenko.tech/animals/</guid><media:content url="https://photo.savchenko.tech/animals/_MG_2648_hu10cb35653bc58d411c1201a2c597db36_11327289_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://photo.savchenko.tech/animals/_MG_2648_hu10cb35653bc58d411c1201a2c597db36_11327289_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item><item>
+      <title>Landscapes</title>
+      <link>https://photo.savchenko.tech/landscapes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://photo.savchenko.tech/landscapes/</guid><media:content url="https://photo.savchenko.tech/landscapes/IMG_0133_hu9c162a32d9a371425b0f65892c6e482d_14868877_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://photo.savchenko.tech/landscapes/IMG_0133_hu9c162a32d9a371425b0f65892c6e482d_14868877_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item><item>
+      <title>Nature</title>
+      <link>https://photo.savchenko.tech/nature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://photo.savchenko.tech/nature/</guid><media:content url="https://photo.savchenko.tech/nature/_MG_2345_hu05ab2fd4f2220a45e38fd066122f733e_8173487_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://photo.savchenko.tech/nature/_MG_2345_hu05ab2fd4f2220a45e38fd066122f733e_8173487_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item><item>
+      <title>Random</title>
+      <link>https://photo.savchenko.tech/random/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://photo.savchenko.tech/random/</guid><media:content url="https://photo.savchenko.tech/random/_MG_0404_hub99a42cd994a0956ab1fcbbbb6f35210_6094099_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://photo.savchenko.tech/random/_MG_0404_hub99a42cd994a0956ab1fcbbbb6f35210_6094099_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item><item>
+      <title>Still life</title>
+      <link>https://photo.savchenko.tech/stilllife/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://photo.savchenko.tech/stilllife/</guid><media:content url="https://photo.savchenko.tech/stilllife/5551660_hu13a3fb727b7f6bcfe316d33d1ac24e85_390573_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://photo.savchenko.tech/stilllife/5551660_hu13a3fb727b7f6bcfe316d33d1ac24e85_390573_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
   </channel>
 </rss>

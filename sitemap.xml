@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://photo.savchenko.tech/animals/</loc>
+  </url><url>
+    <loc>https://photo.savchenko.tech/landscapes/</loc>
+  </url><url>
+    <loc>https://photo.savchenko.tech/nature/</loc>
+  </url><url>
+    <loc>https://photo.savchenko.tech/random/</loc>
+  </url><url>
+    <loc>https://photo.savchenko.tech/stilllife/</loc>
+  </url><url>
+    <loc>https://photo.savchenko.tech/about/</loc>
+  </url><url>
     <loc>https://photo.savchenko.tech/categories/</loc>
   </url><url>
     <loc>https://photo.savchenko.tech/</loc>
